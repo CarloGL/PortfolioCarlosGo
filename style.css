@@ -640,7 +640,6 @@ span{
     color: var(--main-color);
 } 
 
-
 /* BREAKPOINTS */
 @media (max-width: 1200px) {
     html{
